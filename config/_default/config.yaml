@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Fynn Warnke # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'https://fwrnke.github.io/' # Website URL
 copyright: '© {year} Fynn Warnke' # Footer text, e.g. '© {year} Me'
 
 ############################

@@ -73,4 +73,4 @@ I'm a marine geophysicist/geoscientist focusing on acquisition, processing and i
 
 Currently conducting my PhD (working title: "Investigation of the Origin of Seafloor Pockmarks on the Chatham Rise using Acoustic and Seismic Data") as part of the Marsden fund project "Geologic champagne: What controls sudden release of CO2 at glacial terminations on the Chatham Rise?".
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_FynnWarnke_academic_upload.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
